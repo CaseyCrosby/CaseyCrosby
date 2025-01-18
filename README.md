@@ -1,5 +1,10 @@
 ### Hi there 👋
+My name is Casey Crosby and I am a Software Developer. Currently im working my way through the freeCodeCamp curriculm. 
+*RESPONSIVE WEB DESIGN CERTIFICATION 75%
+*JavaScript ALGORITHMS AND DATA STRUCTURES CERTIFICATION 70%
 
+I found the amazing world of Software Development and have passionate about learning everyday since. I love the creativity of solving problems with code and technology.
+This repo contains some of my learning projects and personal projects. Thank you for visting.
 <!--
 **CaseyCrosby/CaseyCrosby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
